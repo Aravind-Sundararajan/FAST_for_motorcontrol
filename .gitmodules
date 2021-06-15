@@ -1,0 +1,3 @@
+[submodule "src/polytopewalk"]
+	path = src/polytopewalk
+	url = https://github.com/yuachen/polytopewalk
